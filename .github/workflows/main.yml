@@ -1,0 +1,51 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  push:
+    branches: [ Blazor-Support ]
+  pull_request:
+    branches: [ Blazor-Support ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      
+    - name: Create Backup
+      run: |
+          git checkout Blazor-Support 
+          mkdir BACKUP
+          rm -rf BACKUP/
+          cp * BACKUP/
+          
+    - name: Build Application
+      run: dotnet build
+
+    - name: Prepare for publish 
+      run: dotnet publish --configuration Release
+    
+    - name: Copy files from Blazor-Support to master
+      run: |
+        git checkout master
+        git checkout Blazor-Support -- bin/Release/netstandard2.1/publish/wwwroot
+        ls
+        cp -r wwwroot/* .
+    
+    - name: Directory Structure 
+      run: ls -l
+    
+    - name: Publish website
+      run: |
+          git config --global user.name 'ishashankkawle'
+          git config --global user.email 'skawle631@gmail.com'
+          git add -A
+          git commit -am "Automated Deploy"
+          git push
+
+
+     
