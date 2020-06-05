@@ -22,6 +22,18 @@ jobs:
     - name: Copy wwwroot folder to $GITHUB_REPOSITORY
       run: cp -r wwwroot/* .
     
+    - name: LS test
+      run: ls -l
+    
     - name: Git Add
-      run: git add *
+      run: |
+      git config --local user.email "skawle631@gmail.com"
+      git config --local user.name "ishashankkawle"
+      git commit -m "Add changes" -a
+  
+  - name: Push changes
+    run: git push
+    with: 
+      github_token: ${{ secrets.GITHUB_TOKEN }}
+
      
