@@ -6,11 +6,9 @@ name: CI
 # events but only for the master branch
 on:
   push:
-    branches: [ Blazor-Support ]
+    branches: [ master ]
   pull_request:
     branches: [ master ]
-  commit_comment:
-    branches: [master,Blazor-Support ]
 
 jobs:
   build:
@@ -22,5 +20,5 @@ jobs:
       run: dotnet build
     
     - name: Copy wwwroot folder to home
-      run: cp wwwroot .
+      run: cp wwwroot $HOME
      
