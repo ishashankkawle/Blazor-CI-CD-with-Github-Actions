@@ -20,6 +20,8 @@ jobs:
       run: |
           git fetch
           git checkout Blazor-Support 
+          git pull
+          ls -l
           rm -rf BACKUP/
           cp * BACKUP/
           
