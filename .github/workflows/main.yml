@@ -20,5 +20,8 @@ jobs:
       run: dotnet build
     
     - name: Copy wwwroot folder to $GITHUB_REPOSITORY
-      run: cp -r wwwroot/* $GITHUB_REPOSITORY/
+      run: cp -r wwwroot/* .
+    
+    - name: Git Add
+      run: git add *
      
