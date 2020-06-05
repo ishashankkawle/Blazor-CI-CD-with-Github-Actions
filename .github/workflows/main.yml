@@ -22,8 +22,10 @@ jobs:
           git checkout Blazor-Support 
           git pull
           ls -l
-          rm -rf BACKUP/
-          cp * BACKUP/
+          cd BACKUP
+          rm -rf *
+          cd ..
+          cp -r !(BACKUP) BACKUP/
           
     - name: Build Application
       run: dotnet build
