@@ -1,28 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/ishashankkawle.github.io.csproj": {}
+    "D:\\Web Programming\\Blazor\\ishashankkawle.github.io\\ishashankkawle.github.io.csproj": {}
   },
   "projects": {
-    "/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/ishashankkawle.github.io.csproj": {
+    "D:\\Web Programming\\Blazor\\ishashankkawle.github.io\\ishashankkawle.github.io.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/ishashankkawle.github.io.csproj",
+        "projectUniqueName": "D:\\Web Programming\\Blazor\\ishashankkawle.github.io\\ishashankkawle.github.io.csproj",
         "projectName": "ishashankkawle.github.io",
-        "projectPath": "/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/ishashankkawle.github.io.csproj",
-        "packagesPath": "/home/runner/.nuget/packages/",
-        "outputPath": "/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/",
+        "projectPath": "D:\\Web Programming\\Blazor\\ishashankkawle.github.io\\ishashankkawle.github.io.csproj",
+        "packagesPath": "C:\\Users\\Shashank\\.nuget\\packages\\",
+        "outputPath": "D:\\Web Programming\\Blazor\\ishashankkawle.github.io\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/home/runner/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Shashank\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -73,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

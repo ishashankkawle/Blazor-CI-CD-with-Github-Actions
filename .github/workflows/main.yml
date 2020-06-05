@@ -18,9 +18,12 @@ jobs:
       
     - name: Build Application
       run: dotnet build
+
+    - name: Prepare for publish 
+      run: dotnet publish --configuration Release
     
     - name: Copy wwwroot folder on local
-      run: cp -r wwwroot/* .
+      run: cp -r bin/Release/netstandard2.1/publish/wwwroot .
     
     - name: Directory Structure 
       run: ls -l
@@ -30,7 +33,7 @@ jobs:
           git config --global user.name 'ishashankkawle'
           git config --global user.email 'skawle631@gmail.com'
           git add -A
-          git commit -am "Automated report"
+          git commit -am "Automated Deploy"
           git push
 
 
