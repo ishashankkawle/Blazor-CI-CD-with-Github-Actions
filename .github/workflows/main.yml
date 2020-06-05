@@ -29,7 +29,7 @@ jobs:
       run: |
           git config --global user.name 'ishashankkawle'
           git config --global user.email 'skawle631@gmail.com'
-          git add
+          git add -A
           git commit -am "Automated report"
           git push
 
