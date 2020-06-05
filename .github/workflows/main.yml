@@ -16,9 +16,9 @@ jobs:
     steps:
     - uses: actions/checkout@v2
       
-    - name: Runner Command
+    - name: Build Application
       run: dotnet build
     
-    - name: Copy wwwroot folder to home
-      run: cp -r wwwroot/* $HOME
+    - name: Copy wwwroot folder to $GITHUB_REPOSITORY
+      run: cp -r wwwroot/* $GITHUB_REPOSITORY/
      
