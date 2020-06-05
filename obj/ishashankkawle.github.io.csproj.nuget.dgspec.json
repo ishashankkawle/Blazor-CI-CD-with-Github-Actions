@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My folder\\MY\\ishashankkawle.github.io\\ishashankkawle.github.io.csproj": {}
+    "D:\\Web Programming\\Blazor\\ishashankkawle.github.io\\ishashankkawle.github.io.csproj": {}
   },
   "projects": {
-    "D:\\My folder\\MY\\ishashankkawle.github.io\\ishashankkawle.github.io.csproj": {
-      "version": "12.3.0",
+    "D:\\Web Programming\\Blazor\\ishashankkawle.github.io\\ishashankkawle.github.io.csproj": {
+      "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My folder\\MY\\ishashankkawle.github.io\\ishashankkawle.github.io.csproj",
+        "projectUniqueName": "D:\\Web Programming\\Blazor\\ishashankkawle.github.io\\ishashankkawle.github.io.csproj",
         "projectName": "ishashankkawle.github.io",
-        "projectPath": "D:\\My folder\\MY\\ishashankkawle.github.io\\ishashankkawle.github.io.csproj",
-        "packagesPath": "C:\\Users\\skawle\\.nuget\\packages\\",
-        "outputPath": "D:\\My folder\\MY\\ishashankkawle.github.io\\obj\\",
+        "projectPath": "D:\\Web Programming\\Blazor\\ishashankkawle.github.io\\ishashankkawle.github.io.csproj",
+        "packagesPath": "C:\\Users\\Shashank\\.nuget\\packages\\",
+        "outputPath": "D:\\Web Programming\\Blazor\\ishashankkawle.github.io\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\skawle\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Shashank\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
