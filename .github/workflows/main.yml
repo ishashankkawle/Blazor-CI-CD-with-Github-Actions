@@ -24,4 +24,4 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: Runner Command
-      run: dotnet run
+      run: dotnet build
