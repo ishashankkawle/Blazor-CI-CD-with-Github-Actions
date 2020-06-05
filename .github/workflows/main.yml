@@ -19,16 +19,17 @@ jobs:
     - name: Build Application
       run: dotnet build
     
-    - name: Copy wwwroot folder to $GITHUB_REPOSITORY
+    - name: Copy wwwroot folder on local
       run: cp -r wwwroot/* .
     
-    - name: LS test
+    - name: Directory Structure 
       run: ls -l
     
-    - name: Git Add
+    - name: Publish website
       run: |
           git config --global user.name 'ishashankkawle'
           git config --global user.email 'skawle631@gmail.com'
+          git add
           git commit -am "Automated report"
           git push
 
