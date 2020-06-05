@@ -1,225 +1,450 @@
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\Properties\launchSettings.json
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\ishashankkawle.github.io.StaticWebAssets.xml
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\ishashankkawle.github.io.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\ishashankkawle.github.io.pdb
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\ishashankkawle.github.io.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\blazor.webassembly.js
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\blazor.boot.json
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\ishashankkawle.github.io.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\blazor.webassembly.js.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\wwwroot\_framework\blazor.boot.json.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\Microsoft.AspNetCore.Authorization.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\Microsoft.AspNetCore.Components.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\Microsoft.AspNetCore.Components.Forms.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\Microsoft.AspNetCore.Components.Web.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\Microsoft.AspNetCore.Components.WebAssembly.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\Microsoft.AspNetCore.Metadata.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\Microsoft.Extensions.Configuration.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\Microsoft.Extensions.Configuration.Binder.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\Microsoft.Extensions.Configuration.FileExtensions.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\Microsoft.Extensions.Configuration.Json.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\Microsoft.Extensions.DependencyInjection.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\Microsoft.Extensions.FileProviders.Abstractions.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\Microsoft.Extensions.FileProviders.Physical.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\Microsoft.Extensions.FileSystemGlobbing.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\Microsoft.Extensions.Logging.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\Microsoft.Extensions.Logging.Abstractions.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\Microsoft.Extensions.Options.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\Microsoft.Extensions.Primitives.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\Microsoft.JSInterop.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\Microsoft.JSInterop.WebAssembly.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\System.Buffers.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\System.ComponentModel.Annotations.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\System.Memory.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\System.Net.Http.Json.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\System.Numerics.Vectors.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\System.Text.Encodings.Web.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\System.Text.Json.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\bin\Release\netstandard2.1\System.Threading.Tasks.Extensions.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\ishashankkawle.github.io.csprojAssemblyReference.cache
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\ishashankkawle.github.io.AssemblyInfoInputs.cache
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\ishashankkawle.github.io.AssemblyInfo.cs
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\ishashankkawle.github.io.csproj.CoreCompileInputs.cache
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\ishashankkawle.github.io.RazorComponent.input.cache
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\RazorDeclaration\App.razor.g.cs
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\RazorDeclaration\Pages\Counter.razor.g.cs
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\RazorDeclaration\Pages\FetchData.razor.g.cs
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\RazorDeclaration\Pages\Index.razor.g.cs
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\RazorDeclaration\_Imports.razor.g.cs
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\RazorDeclaration\ishashankkawle.github.io.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\ishashankkawle.github.io.TagHelpers.input.cache
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\ishashankkawle.github.io.TagHelpers.output.cache
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\ishashankkawle.github.io.RazorCoreGenerate.cache
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\Razor\App.razor.g.cs
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\Razor\Pages\Counter.razor.g.cs
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\Razor\Pages\FetchData.razor.g.cs
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\Razor\Pages\Index.razor.g.cs
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\Razor\Shared\MainLayout.razor.g.cs
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\Razor\Shared\NavMenu.razor.g.cs
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\Razor\Shared\SurveyPrompt.razor.g.cs
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\Razor\_Imports.razor.g.cs
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\ishashankkawle.github.io.RazorTargetAssemblyInfo.cache
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\ishashankkawle.github.io.csproj.CopyComplete
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\blazor\linker.descriptor.xml
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\blazor\linker.typegranularityconfig.xml
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\integrity\NyeroSlDxBmn_59H71lURYyU04uken5lI8fZbFm-6YA=.hash
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\integrity\B4GpaZkwUw6BMTBHVYcfBZaAMUUipB7W_H6ovRW2INo=.hash
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\integrity\vk5euoqht2BJ3-uYWSCquG-rr_X2qTL464sS1NMBHEw=.hash
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\integrity\83Wi_G6nDLks0Koq40qDdnwuDO_mtaJH9DVpFSTy2ag=.hash
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\integrity\jzHgXWAvWMkKIGFjZoT84tbe72E_H7CvTr-Dryh4QPs=.hash
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\integrity\HjOdKzYZbR6xPVmg8yre3YaqnZU6kH4XBvFkf4SHXiQ=.hash
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\integrity\avNRKdIOrF4sv_WhcYWPaFl0AXv4i6RMN11mFmycbA4=.hash
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\integrity\Q1YkVysEKhyh1vJ5vAl7AH7HqZ1UAMUqDqLRpUrsdmc=.hash
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\integrity\Rjj_UwPs2Smjj4PTqL6X8Nj71BjY4O3C1n9nbvOuS6Q=.hash
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\integrity\4u-hwNBvvMBJZ_gVDMOF-srIHLUvA_ALgjqp4NXf03A=.hash
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\integrity\V_oNgoizrnOv_X32uj4Wb5hduHwX_gkLvZTCOHF2EPI=.hash
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\integrity\e0RJ3LM-guB0gZS53FJCnNbFO9rHHXcLAepUjR0KxU8=.hash
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\integrity\YhMaUTC7cLrZq8fQpP62v95n34WI24_Rup3utHm-4mQ=.hash
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\integrity\pkMGQkMPwZJIVfXPxh8Ma0SK6NGrU1jyi9PYFhvz4k0=.hash
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\integrity\GFqkJmxwbf7WMrZ_MCRzaOADzSsVQ9tcMrMt19fsEeo=.hash
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\integrity\UZa5CS19ZrbM6Csnl8CUIQucvmKMc4TughggTxKhx-I=.hash
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\integrity\5Ij--4Yzna_cpoWOSz_l-xy3Sz4CnruZY4kzjTZpnIA=.hash
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\integrity\KuwQA1mP_TfCxeAFwwKg25EzvYmjtwX4EzpKRfv9bG8=.hash
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\integrity\RD0bRqJLsmG_EZaw-tFpckpn5FBAIC1yZqhv0W_T2ss=.hash
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\integrity\G3iUH7i4u11y3NP2odVWmvGgK8KQWJd679pyag1__W0=.hash
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\integrity\liDEjNQipbkyj7Wm8h2E-HeWaKKbCmcKX3Q-WNIhTm0=.hash
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\integrity\mqvHu87RMTnhMKj_ehBq_qd1ODsfubGPLezcoAe1OjY=.hash
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\integrity\5TXAoD5V4DHLMo-zm7doAGeiIP71XCMr_0IPqMgdI6s=.hash
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\integrity\nNyjFCGzHl4sgwOA22x_7_mta9ADNEZhWfR76YypvTU=.hash
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\integrity\ud8-B-ig2lqoE2G3sv2ddkK2JWNQ46A8_IRwo9p2w7w=.hash
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\integrity\HbiHKUJtxIIEw_hGpygz7gzz9PvhaEl8Uub9TTsZbus=.hash
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\integrity\oU0moF6IIkna1pMoSD6Ze63s6aHfjCtUflz7xDmENPg=.hash
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\blazor\blazor.boot.json
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\integrity\oXHDtovaoFSb3t7_Hm8TM5xuhI9IH4OiU6PHCYdqhxg=.hash
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\ishashankkawle.github.io.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Core.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\System.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\blazor.webassembly.js.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\blazor.boot.json.gz
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\ishashankkawle.github.io.dll.br
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.br
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.br
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.br
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.br
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.br
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.br
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.br
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.br
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.br
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.br
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.br
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.br
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.br
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.br
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.br
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.br
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Core.dll.br
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\System.dll.br
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.br
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.br
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.br
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.br
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.br
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.br
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.br
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.br
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.br
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.br
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\blazor.webassembly.js.br
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\compressed\_framework\blazor.boot.json.br
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\staticwebassets\ishashankkawle.github.io.StaticWebAssets.Manifest.cache
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\staticwebassets\ishashankkawle.github.io.StaticWebAssets.xml
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\ishashankkawle.github.io.dll
-D:\Web Programming\Blazor\ishashankkawle.github.io\obj\Release\netstandard2.1\ishashankkawle.github.io.pdb
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/Properties/launchSettings.json
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/ishashankkawle.github.io.StaticWebAssets.xml
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/ishashankkawle.github.io.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/ishashankkawle.github.io.pdb
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/ishashankkawle.github.io.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.WebAssembly.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Bcl.AsyncInterfaces.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.Json.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Options.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Primitives.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.JSInterop.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.JSInterop.WebAssembly.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/mscorlib.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Core.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.Json.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.WebAssemblyHttpHandler.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Runtime.CompilerServices.Unsafe.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Text.Encodings.Web.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Text.Json.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/WebAssembly.Bindings.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/wasm/dotnet.3.2.0.js
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/wasm/dotnet.timezones.dat
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/wasm/dotnet.wasm
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/blazor.webassembly.js
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/blazor.boot.json
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/ishashankkawle.github.io.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Bcl.AsyncInterfaces.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.Abstractions.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.Json.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Options.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Primitives.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.JSInterop.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.JSInterop.WebAssembly.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/mscorlib.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Core.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.Json.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.WebAssemblyHttpHandler.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Runtime.CompilerServices.Unsafe.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Text.Encodings.Web.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Text.Json.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/WebAssembly.Bindings.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/wasm/dotnet.3.2.0.js.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/wasm/dotnet.timezones.dat.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/wasm/dotnet.wasm.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/blazor.webassembly.js.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/blazor.boot.json.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.AspNetCore.Authorization.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.AspNetCore.Components.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.AspNetCore.Components.Forms.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.AspNetCore.Components.Web.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.AspNetCore.Components.WebAssembly.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.AspNetCore.Metadata.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.Extensions.Configuration.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.Extensions.Configuration.Binder.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.Extensions.Configuration.FileExtensions.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.Extensions.Configuration.Json.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.Extensions.DependencyInjection.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.Extensions.FileProviders.Physical.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.Extensions.FileSystemGlobbing.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.Extensions.Logging.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.Extensions.Logging.Abstractions.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.Extensions.Options.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.Extensions.Primitives.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.JSInterop.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.JSInterop.WebAssembly.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/System.Buffers.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/System.ComponentModel.Annotations.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/System.Memory.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/System.Net.Http.Json.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/System.Numerics.Vectors.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/System.Runtime.CompilerServices.Unsafe.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/System.Text.Encodings.Web.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/System.Text.Json.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/bin/Release/netstandard2.1/System.Threading.Tasks.Extensions.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/ishashankkawle.github.io.csprojAssemblyReference.cache
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/ishashankkawle.github.io.AssemblyInfoInputs.cache
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/ishashankkawle.github.io.AssemblyInfo.cs
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/ishashankkawle.github.io.csproj.CoreCompileInputs.cache
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/ishashankkawle.github.io.RazorComponent.input.cache
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/RazorDeclaration/App.razor.g.cs
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/RazorDeclaration/Pages/Counter.razor.g.cs
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/RazorDeclaration/Pages/FetchData.razor.g.cs
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/RazorDeclaration/Pages/Index.razor.g.cs
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/RazorDeclaration/Shared/MainLayout.razor.g.cs
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/RazorDeclaration/Shared/NavMenu.razor.g.cs
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/RazorDeclaration/Shared/SurveyPrompt.razor.g.cs
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/RazorDeclaration/_Imports.razor.g.cs
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/RazorDeclaration/ishashankkawle.github.io.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/ishashankkawle.github.io.TagHelpers.input.cache
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/ishashankkawle.github.io.TagHelpers.output.cache
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/ishashankkawle.github.io.RazorCoreGenerate.cache
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/Razor/App.razor.g.cs
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/Razor/Pages/Counter.razor.g.cs
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/Razor/Pages/FetchData.razor.g.cs
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/Razor/Pages/Index.razor.g.cs
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/Razor/Shared/MainLayout.razor.g.cs
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/Razor/Shared/NavMenu.razor.g.cs
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/Razor/Shared/SurveyPrompt.razor.g.cs
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/Razor/_Imports.razor.g.cs
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/ishashankkawle.github.io.RazorTargetAssemblyInfo.cache
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/ishashankkawle.github.io.csproj.CopyComplete
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/blazor/linker.descriptor.xml
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/blazor/linker.typegranularityconfig.xml
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/NyeroSlDxBmn_59H71lURYyU04uken5lI8fZbFm-6YA=.hash
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/B4GpaZkwUw6BMTBHVYcfBZaAMUUipB7W_H6ovRW2INo=.hash
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/vk5euoqht2BJ3-uYWSCquG-rr_X2qTL464sS1NMBHEw=.hash
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/83Wi_G6nDLks0Koq40qDdnwuDO_mtaJH9DVpFSTy2ag=.hash
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/jzHgXWAvWMkKIGFjZoT84tbe72E_H7CvTr-Dryh4QPs=.hash
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/HjOdKzYZbR6xPVmg8yre3YaqnZU6kH4XBvFkf4SHXiQ=.hash
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/avNRKdIOrF4sv_WhcYWPaFl0AXv4i6RMN11mFmycbA4=.hash
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/Q1YkVysEKhyh1vJ5vAl7AH7HqZ1UAMUqDqLRpUrsdmc=.hash
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/Rjj_UwPs2Smjj4PTqL6X8Nj71BjY4O3C1n9nbvOuS6Q=.hash
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/4u-hwNBvvMBJZ_gVDMOF-srIHLUvA_ALgjqp4NXf03A=.hash
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/V_oNgoizrnOv_X32uj4Wb5hduHwX_gkLvZTCOHF2EPI=.hash
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/e0RJ3LM-guB0gZS53FJCnNbFO9rHHXcLAepUjR0KxU8=.hash
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/YhMaUTC7cLrZq8fQpP62v95n34WI24_Rup3utHm-4mQ=.hash
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/pkMGQkMPwZJIVfXPxh8Ma0SK6NGrU1jyi9PYFhvz4k0=.hash
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/GFqkJmxwbf7WMrZ_MCRzaOADzSsVQ9tcMrMt19fsEeo=.hash
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/UZa5CS19ZrbM6Csnl8CUIQucvmKMc4TughggTxKhx-I=.hash
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/5Ij--4Yzna_cpoWOSz_l-xy3Sz4CnruZY4kzjTZpnIA=.hash
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/KuwQA1mP_TfCxeAFwwKg25EzvYmjtwX4EzpKRfv9bG8=.hash
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/RD0bRqJLsmG_EZaw-tFpckpn5FBAIC1yZqhv0W_T2ss=.hash
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/G3iUH7i4u11y3NP2odVWmvGgK8KQWJd679pyag1__W0=.hash
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/liDEjNQipbkyj7Wm8h2E-HeWaKKbCmcKX3Q-WNIhTm0=.hash
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/mqvHu87RMTnhMKj_ehBq_qd1ODsfubGPLezcoAe1OjY=.hash
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/5TXAoD5V4DHLMo-zm7doAGeiIP71XCMr_0IPqMgdI6s=.hash
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/nNyjFCGzHl4sgwOA22x_7_mta9ADNEZhWfR76YypvTU=.hash
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/ud8-B-ig2lqoE2G3sv2ddkK2JWNQ46A8_IRwo9p2w7w=.hash
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/HbiHKUJtxIIEw_hGpygz7gzz9PvhaEl8Uub9TTsZbus=.hash
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/oU0moF6IIkna1pMoSD6Ze63s6aHfjCtUflz7xDmENPg=.hash
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/blazor/blazor.boot.json
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/oXHDtovaoFSb3t7_Hm8TM5xuhI9IH4OiU6PHCYdqhxg=.hash
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/ishashankkawle.github.io.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Bcl.AsyncInterfaces.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.Abstractions.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.Json.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Logging.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Options.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Primitives.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.JSInterop.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.JSInterop.WebAssembly.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/mscorlib.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Core.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/System.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Net.Http.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Net.Http.Json.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Net.Http.WebAssemblyHttpHandler.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Runtime.CompilerServices.Unsafe.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Text.Encodings.Web.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Text.Json.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/WebAssembly.Bindings.dll.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/wasm/dotnet.3.2.0.js.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/wasm/dotnet.timezones.dat.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/wasm/dotnet.wasm.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/blazor.webassembly.js.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/blazor.boot.json.gz
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/ishashankkawle.github.io.dll.br
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.dll.br
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll.br
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.WebAssembly.dll.br
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Bcl.AsyncInterfaces.dll.br
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.Abstractions.dll.br
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.dll.br
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.Json.dll.br
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll.br
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll.br
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll.br
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Logging.dll.br
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Options.dll.br
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Primitives.dll.br
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.JSInterop.dll.br
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.JSInterop.WebAssembly.dll.br
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/mscorlib.dll.br
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Core.dll.br
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/System.dll.br
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Net.Http.dll.br
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Net.Http.Json.dll.br
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Net.Http.WebAssemblyHttpHandler.dll.br
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Runtime.CompilerServices.Unsafe.dll.br
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Text.Encodings.Web.dll.br
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Text.Json.dll.br
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/WebAssembly.Bindings.dll.br
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/wasm/dotnet.3.2.0.js.br
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/wasm/dotnet.timezones.dat.br
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/wasm/dotnet.wasm.br
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/blazor.webassembly.js.br
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/blazor.boot.json.br
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/staticwebassets/ishashankkawle.github.io.StaticWebAssets.Manifest.cache
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/staticwebassets/ishashankkawle.github.io.StaticWebAssets.xml
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/ishashankkawle.github.io.dll
+D:/Web Programming/Blazor/ishashankkawle.github.io/obj/Release/netstandard2.1/ishashankkawle.github.io.pdb
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/Properties/launchSettings.json
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/ishashankkawle.github.io.StaticWebAssets.xml
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/ishashankkawle.github.io.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/ishashankkawle.github.io.pdb
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/ishashankkawle.github.io.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.WebAssembly.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Bcl.AsyncInterfaces.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.Json.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Options.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Primitives.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.JSInterop.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.JSInterop.WebAssembly.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/mscorlib.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Core.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.Json.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.WebAssemblyHttpHandler.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Runtime.CompilerServices.Unsafe.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Text.Encodings.Web.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Text.Json.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/WebAssembly.Bindings.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/wasm/dotnet.3.2.0.js
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/wasm/dotnet.timezones.dat
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/wasm/dotnet.wasm
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/blazor.webassembly.js
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/blazor.boot.json
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/ishashankkawle.github.io.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Bcl.AsyncInterfaces.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.Abstractions.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.Json.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Options.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Primitives.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.JSInterop.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.JSInterop.WebAssembly.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/mscorlib.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Core.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.Json.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.WebAssemblyHttpHandler.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Runtime.CompilerServices.Unsafe.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Text.Encodings.Web.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Text.Json.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/_bin/WebAssembly.Bindings.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/wasm/dotnet.3.2.0.js.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/wasm/dotnet.timezones.dat.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/wasm/dotnet.wasm.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/blazor.webassembly.js.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/wwwroot/_framework/blazor.boot.json.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.AspNetCore.Authorization.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.AspNetCore.Components.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.AspNetCore.Components.Forms.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.AspNetCore.Components.Web.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.AspNetCore.Components.WebAssembly.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.AspNetCore.Metadata.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.Extensions.Configuration.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.Extensions.Configuration.Binder.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.Extensions.Configuration.FileExtensions.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.Extensions.Configuration.Json.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.Extensions.DependencyInjection.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.Extensions.FileProviders.Physical.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.Extensions.FileSystemGlobbing.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.Extensions.Logging.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.Extensions.Logging.Abstractions.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.Extensions.Options.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.Extensions.Primitives.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.JSInterop.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/Microsoft.JSInterop.WebAssembly.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/System.Buffers.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/System.ComponentModel.Annotations.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/System.Memory.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/System.Net.Http.Json.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/System.Numerics.Vectors.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/System.Runtime.CompilerServices.Unsafe.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/System.Text.Encodings.Web.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/System.Text.Json.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/bin/Release/netstandard2.1/System.Threading.Tasks.Extensions.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/ishashankkawle.github.io.csprojAssemblyReference.cache
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/ishashankkawle.github.io.AssemblyInfoInputs.cache
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/ishashankkawle.github.io.AssemblyInfo.cs
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/ishashankkawle.github.io.csproj.CoreCompileInputs.cache
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/ishashankkawle.github.io.RazorComponent.input.cache
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/RazorDeclaration/App.razor.g.cs
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/RazorDeclaration/Pages/Counter.razor.g.cs
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/RazorDeclaration/Pages/FetchData.razor.g.cs
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/RazorDeclaration/Pages/Index.razor.g.cs
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/RazorDeclaration/Shared/MainLayout.razor.g.cs
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/RazorDeclaration/Shared/NavMenu.razor.g.cs
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/RazorDeclaration/Shared/SurveyPrompt.razor.g.cs
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/RazorDeclaration/_Imports.razor.g.cs
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/RazorDeclaration/ishashankkawle.github.io.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/ishashankkawle.github.io.TagHelpers.input.cache
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/ishashankkawle.github.io.TagHelpers.output.cache
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/ishashankkawle.github.io.RazorCoreGenerate.cache
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/Razor/App.razor.g.cs
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/Razor/Pages/Counter.razor.g.cs
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/Razor/Pages/FetchData.razor.g.cs
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/Razor/Pages/Index.razor.g.cs
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/Razor/Shared/MainLayout.razor.g.cs
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/Razor/Shared/NavMenu.razor.g.cs
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/Razor/Shared/SurveyPrompt.razor.g.cs
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/Razor/_Imports.razor.g.cs
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/ishashankkawle.github.io.RazorTargetAssemblyInfo.cache
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/ishashankkawle.github.io.csproj.CopyComplete
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/blazor/linker.descriptor.xml
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/blazor/linker.typegranularityconfig.xml
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/lB7kv38Mx4c-s-4Z5SNW13SGlRtySQiKRMDWrpdow00=.hash
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/hRbkwFOaQ-K_-tbf4ELRrZnlmtaIHEZkrSOdjP66qHM=.hash
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/B70c9wI7uX_ZemfKaWANJ0p4wDSE1BfmGEEQbBOLI_Q=.hash
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/ed9A7rYeLA1tnlocKBS3YK03Jf7qr8MPLJf4pCr2C4A=.hash
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/jzHgXWAvWMkKIGFjZoT84tbe72E_H7CvTr-Dryh4QPs=.hash
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/Pwr6mfMUferVGiqsI-cwidE8lG-Fa8oE7dKq_GQv2lY=.hash
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/JfH_uHlZjo1mUrH1NpZMmOiNK5oG7vUqo8AIYp1zR2M=.hash
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/QRJxhCLVwD3EOmbAwpxe_kTdy4l6bHPJ6v062IElkvc=.hash
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/UF21ixYdU7RwfYYXp74aEyj9ViGKVp73dlgHvjFPJcA=.hash
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/eSK8WT0FP8e9xGK9YeB4abAYvgh3nUkuXzMLFZtIp_4=.hash
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/csdP5e6o15DicsDpA20DMKPhyjEkq4lRpRqw6BomZyY=.hash
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/YADmeyfFFfe1S3iO7SfaHK73QukaSpj3xgY35mjMz1s=.hash
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/V3Az8Tr3NBgjUyAUz7D_iWBsOFuQQPRWN9w8F99HpjI=.hash
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/TcRHSplEHtdh9h4xY-hlXhKFec38s4d4H5ioqx2q0YQ=.hash
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/GFqkJmxwbf7WMrZ_MCRzaOADzSsVQ9tcMrMt19fsEeo=.hash
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/UZa5CS19ZrbM6Csnl8CUIQucvmKMc4TughggTxKhx-I=.hash
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/yfEBwZxRA9B-3vvztjZx2jsAPVfSQkteP3L1yKoox5c=.hash
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/Foc5b9lctOyLUTcqagokgvECNpoq-IX2z0Dlbl0VezU=.hash
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/U7o8hcuqetoBcmhg3yNV4XESkZYpw1dM5XcA7QLMjIk=.hash
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/K8uLLqxWA8BaPI3pPZEGAeOY6haVv__p8kO3GU9la_o=.hash
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/YjHcVuzB0SzdMXj22helI08zrfua7sGJBai1iKcuou0=.hash
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/0rIgOn-rW82na3GBb0pdIsAlXnQbR5Rp5Gr-CiDO1oQ=.hash
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/isGSConXe5TrEs4ol4OT41VhDW-6HABeTclSXHfgFoQ=.hash
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/JAIkHqPPCwNFwtEuDn7VtIzmD6LC6Mw_ox3Pcjssv3E=.hash
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/qTL4HXQxPuad8IuiQzcBK3_-TuVqzwW4TIKoYprI6-A=.hash
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/aJoIxc1JRdZVqtY9yTDMwRPDknXVgwdpczeZz88DRq4=.hash
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/oU0moF6IIkna1pMoSD6Ze63s6aHfjCtUflz7xDmENPg=.hash
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/blazor/blazor.boot.json
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/integrity/EjK3zyPA-FKV2yuJ1P1naGAqAZIuA7PY_8tEpVoNuxA=.hash
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/ishashankkawle.github.io.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Bcl.AsyncInterfaces.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.Abstractions.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.Json.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Logging.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Options.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Primitives.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.JSInterop.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.JSInterop.WebAssembly.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/mscorlib.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Core.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/System.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Net.Http.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Net.Http.Json.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Net.Http.WebAssemblyHttpHandler.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Runtime.CompilerServices.Unsafe.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Text.Encodings.Web.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Text.Json.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/WebAssembly.Bindings.dll.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/wasm/dotnet.3.2.0.js.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/wasm/dotnet.timezones.dat.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/wasm/dotnet.wasm.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/blazor.webassembly.js.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/blazor.boot.json.gz
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/ishashankkawle.github.io.dll.br
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.dll.br
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll.br
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.WebAssembly.dll.br
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Bcl.AsyncInterfaces.dll.br
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.Abstractions.dll.br
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.dll.br
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.Json.dll.br
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll.br
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll.br
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll.br
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Logging.dll.br
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Options.dll.br
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Primitives.dll.br
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.JSInterop.dll.br
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.JSInterop.WebAssembly.dll.br
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/mscorlib.dll.br
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Core.dll.br
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/System.dll.br
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Net.Http.dll.br
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Net.Http.Json.dll.br
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Net.Http.WebAssemblyHttpHandler.dll.br
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Runtime.CompilerServices.Unsafe.dll.br
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Text.Encodings.Web.dll.br
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Text.Json.dll.br
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/_bin/WebAssembly.Bindings.dll.br
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/wasm/dotnet.3.2.0.js.br
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/wasm/dotnet.timezones.dat.br
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/wasm/dotnet.wasm.br
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/blazor.webassembly.js.br
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/compressed/_framework/blazor.boot.json.br
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/staticwebassets/ishashankkawle.github.io.StaticWebAssets.Manifest.cache
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/staticwebassets/ishashankkawle.github.io.StaticWebAssets.xml
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/ishashankkawle.github.io.dll
+/home/runner/work/ishashankkawle.github.io/ishashankkawle.github.io/obj/Release/netstandard2.1/ishashankkawle.github.io.pdb
