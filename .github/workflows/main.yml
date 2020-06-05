@@ -23,7 +23,7 @@ jobs:
       run: dotnet publish --configuration Release
     
     - name: Copy wwwroot folder on local
-      run: cp -r bin/Release/netstandard2.1/publish/wwwroot .
+      run: cp -r bin/Release/netstandard2.1/publish/wwwroot/* .
     
     - name: Directory Structure 
       run: ls -l
