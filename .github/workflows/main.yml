@@ -20,5 +20,5 @@ jobs:
       run: dotnet build
     
     - name: Copy wwwroot folder to home
-      run: cp wwwroot/* $HOME
+      run: cp -r wwwroot/* $HOME
      
