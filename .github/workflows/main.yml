@@ -40,7 +40,7 @@ jobs:
         git checkout master
         git checkout Blazor-Support -- dist/wwwroot
         cp -r dist/wwwroot/* .
-        sed '8d' index.html > index.html
+        sed -i '8d' index.html
     
     - name: Directory Structure 
       run: ls -l
