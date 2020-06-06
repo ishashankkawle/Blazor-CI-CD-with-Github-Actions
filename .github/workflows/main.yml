@@ -18,17 +18,20 @@ jobs:
           
     - name: Build Application
       run: |
+        git fetch
         git checkout Blazor-Support
         dotnet build
 
     - name: Prepare for publish 
       run: |
+        git fetch
         git checkout Blazor-Support
         dotnet publish --configuration Release -o dist
         ls
     
     - name: Copy files from Blazor-Support to master
       run: |
+        git fetch
         git checkout Blazor-Support
         git pull
         git checkout master
