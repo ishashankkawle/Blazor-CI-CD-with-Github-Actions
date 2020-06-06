@@ -40,6 +40,7 @@ jobs:
         git checkout master
         git checkout Blazor-Support -- dist/wwwroot
         cp -r dist/wwwroot/* .
+        sed '/<base href="\/" \/>/d' index.html
     
     - name: Directory Structure 
       run: ls -l
