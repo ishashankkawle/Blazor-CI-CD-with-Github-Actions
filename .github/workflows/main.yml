@@ -27,6 +27,8 @@ jobs:
         git fetch
         git checkout Blazor-Support
         dotnet publish --configuration Release -o dist
+        git config --global user.name 'CI_CD Agent'
+        git config --global user.email 'skawle631@gmail.com'
         git add -A
         git commit -am "Automated PUBLISH [SUCCESS]"
     
@@ -45,7 +47,7 @@ jobs:
     
     - name: Publish website
       run: |
-          git config --global user.name 'ishashankkawle'
+          git config --global user.name 'CI_CD Agent'
           git config --global user.email 'skawle631@gmail.com'
           git add -A
           git commit -am "Automated DEPLOY [SUCCESS]"
