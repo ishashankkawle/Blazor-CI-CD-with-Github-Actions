@@ -15,28 +15,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-      
-    - name: Create Backup
-      run: |
-          git fetch
-          git checkout Blazor-Support 
-          git pull
-          ls -l
-          cd BACKUP
-          rm -rf *
-          cd ..
-          cp -r `ls -A | grep -v "BACKUP"` BACKUP/
           
     - name: Build Application
       run: dotnet build
 
     - name: Prepare for publish 
-      run: dotnet publish --configuration Release
+      run: |
+        dotnet publish --configuration Release -o dist
+        ls
     
     - name: Copy files from Blazor-Support to master
       run: |
+        git checkout Blazor-Support
+        git pull
         git checkout master
-        git checkout Blazor-Support -- bin/Release/netstandard2.1/publish/wwwroot
+        git checkout Blazor-Support -- dist/wwwroot
         ls
         cp -r wwwroot/* .
     
