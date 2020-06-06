@@ -27,7 +27,8 @@ jobs:
         git fetch
         git checkout Blazor-Support
         dotnet publish --configuration Release -o dist
-        ls
+        git add -A
+        git commit -am "Automated PUBLISH [SUCCESS]"
     
     - name: Copy files from Blazor-Support to master
       run: |
@@ -47,7 +48,7 @@ jobs:
           git config --global user.name 'ishashankkawle'
           git config --global user.email 'skawle631@gmail.com'
           git add -A
-          git commit -am "Automated Deploy"
+          git commit -am "Automated DEPLOY [SUCCESS]"
           git push
 
 
