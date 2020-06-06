@@ -39,6 +39,7 @@ jobs:
         git pull
         git checkout master
         git checkout Blazor-Support -- dist/wwwroot
+        cp -r dist/wwwroot/* .
     
     - name: Directory Structure 
       run: ls -l
